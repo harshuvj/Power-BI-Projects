@@ -56,7 +56,16 @@ As a part of data cleaning process, we performed following operations in POWER B
 5)	There were some transaction that happened in USD, using DAX expression we created new variable Normalised sales and used this in reporting
 
 
+#Dashboard
 
+### Following are the few key insightes that we provided to the CEO - Based on Year/Month selected  these vaues will dynamically change 
+ - Total Revenue
+ - Total Sales
+ - How is each region performing in terms of Revenue : CEO can do comparitive analysis between top performing and under performing markets, he can understand what top markets doing correctly to get higher revenue and use those stratrgies in out markets
+ - How is the sales across mupliple regions
+ - What are some top selling products ? can they cross sell ? 
+ - Who are top cusomters and how relationship with then can be further improved
+ 
 
 ![Sales_Insightes_Power_BI_Image_1](https://user-images.githubusercontent.com/61430361/103735101-570cf600-5013-11eb-97ff-2ec3bbd97d92.JPG)
 
