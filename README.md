@@ -1,9 +1,4 @@
 # Sales Insightes Project
-In this repo I host all my Power Bi Projects related information and reports.
- 
-
-
-
 
 
 ### Problem Statement:
